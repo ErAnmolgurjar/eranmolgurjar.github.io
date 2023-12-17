@@ -315,6 +315,9 @@ main {
   .section-heading h3 {
     font-size: 45px;
   }
+  #alrt{
+    right:30px;
+  }
 }
 @media (max-width: 767px) {
   .section-heading h3 {
@@ -650,7 +653,7 @@ main {
   justify-content: center;
   -ms-flex-align: center;
   align-items: center;
-  padding-top: 25px;
+  padding-top: 100px;
 }
 .experience-user .eu-1 {
   position: absolute;
