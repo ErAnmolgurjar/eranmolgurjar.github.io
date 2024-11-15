@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Welcome to my personal portfolio! This website showcases my skills, projects, and achievements as a [Your Profession/Field] (e.g., web developer, software engineer, designer). Feel free to browse through my work and contact me if you would like to collaborate or learn more.
+Welcome to my personal portfolio! This website showcases my skills, projects, and achievements as a Software Engineer. Feel free to browse through my work and contact me if you would like to collaborate or learn more.
 
 ## Live Demo
 
